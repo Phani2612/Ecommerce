@@ -43,6 +43,8 @@ function Navbar()
             {/* <button style={{marginLeft: "680px",marginTop:"-200px"}} class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>         */}
               
             <h1 style={{color:"red"}}>I am changing today</h1>
+
+            <h1>Learning git branches concept</h1>
             
             <img style = {{marginLeft:'750px', marginTop:"-80px"}}data-target="#exampleModal" data-toggle="modal" width="50px" src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/shopping_cart.png"/> 
             
